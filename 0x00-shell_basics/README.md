@@ -12,4 +12,5 @@
   long format
    with user and group ids displayed numerically
    and hidden files
-
+##6-firstdirectory
+   Creates a directory in tmp directory
