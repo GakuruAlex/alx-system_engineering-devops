@@ -8,4 +8,8 @@
   Display current directory contents in  a long format
 ##4-listmorefiles
   Display current directory including hidden files
+##Display current directory contents in 
+  long format
+   with user and group ids displayed numerically
+   and hidden files
 
