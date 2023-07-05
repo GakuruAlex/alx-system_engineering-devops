@@ -4,3 +4,5 @@
  prints the content list of current directory
 ##2-bring_me_home
   Changes working directory to users home directory
+##3-listfiles
+  Display current directory contents in  a long format
