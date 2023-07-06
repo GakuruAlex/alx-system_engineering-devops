@@ -10,3 +10,6 @@
      Creates an empty file named hello
 ##./5-execute
     Adds executive permissions to the owner of the file hello
+##./6-multiple_permissions
+    Adds executive permissions to the owner and the group owner and read permissions to other users
+
