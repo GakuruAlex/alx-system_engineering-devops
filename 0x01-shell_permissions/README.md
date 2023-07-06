@@ -14,4 +14,5 @@
     Adds executive permissions to the owner and the group owner and read permissions to other users
 ##./7-everybody
   Adds executive permissions to the owner the group and other users to the file hello
-
+##./8-James_Bon
+  Owner and group no permissions, other users all the permissions
