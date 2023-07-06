@@ -8,3 +8,5 @@
       Switches from hello to betty
 ##./4-empty
      Creates an empty file named hello
+##./5-execute
+    Adds executive permissions to the owner of the file hello
